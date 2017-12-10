@@ -1,0 +1,2 @@
+class PersonalContact < ApplicationRecord
+end
